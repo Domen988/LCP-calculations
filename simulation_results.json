@@ -1,0 +1,19 @@
+{
+    "geometry": {
+        "width": 1.0,
+        "length": 1.0,
+        "thickness": 0.1,
+        "pitch_x": 1.05,
+        "pitch_y": 1.05,
+        "pivot_offset": [
+            0.0,
+            0.0,
+            0.05
+        ]
+    },
+    "location": {
+        "frame_rotation": 5.0,
+        "lat": -25.86,
+        "lon": 26.9
+    }
+}
