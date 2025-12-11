@@ -5,6 +5,8 @@
         "thickness": 0.1,
         "pitch_x": 1.05,
         "pitch_y": 1.05,
+        "frame_spacing_x": 6.0,
+        "frame_spacing_y": 6.0,
         "pivot_offset": [
             0.0,
             0.0,
